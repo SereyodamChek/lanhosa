@@ -149,7 +149,7 @@ Optimized files will be output to the `/assets` or `/dist` folder.
 **SereyodamChek (Dom)**  
 * GitHub: [https://github.com/SereyodamChek](https://github.com/SereyodamChek)  
 * Email: [sereyodamc011@gmail.com](mailto:sereyodamc011@gmail.com)  
-* 🌐 Portfolio: [Your Portfolio Link] *(optional)*
+
 
 🐛 [Report an Issue](https://github.com/SereyodamChek/lanhosa/issues) • 💡 [Request a Feature](https://github.com/SereyodamChek/lanhosa/issues)
 
